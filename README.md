@@ -7,6 +7,7 @@
 - **[Laravel Excel](https://laravel-excel.com/)**
 - **[Yajra Datatable](https://yajrabox.com/)**
 - **[Laravel Breeze](https://laravel.com/)**
+- **[Laravel Spatie](https://spatie.be/docs/laravel-permission/v5/introduction)**
 
 ## Instalation
 
