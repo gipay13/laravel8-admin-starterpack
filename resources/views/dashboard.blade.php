@@ -13,7 +13,7 @@
 @section('content')
 <div class="container-fluid">
 	<div class="row">
-        <div class="card">
+        <div class="card" data-aos="fade-up">
             <div class="card-header">
 
             </div>

@@ -1,4 +1,4 @@
-<div class="sidebar-wrapper" data-aos="fade-right">
+<div class="sidebar-wrapper">
 	<div>
 		<div class="logo-wrapper">
 			<a href=""><img class="img-fluid for-light w-75" src="https://via.placeholder.com/305x60.png?text=Logo+RSUD+Kota+Bogor" alt=""></a>
