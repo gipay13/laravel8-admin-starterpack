@@ -46,12 +46,5 @@
     @stack('before-script')
     @include('layouts.dashboard.script')
     @stack('after-script')
-
-    <script type="text/javascript">
-      if ($(".page-wrapper").hasClass("horizontal-wrapper")) {
-            $(".according-menu.other" ).css( "display", "none" );
-            $(".sidebar-submenu" ).css( "display", "block" );
-      }
-    </script>
   </body>
 </html>
