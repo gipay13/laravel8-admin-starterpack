@@ -1,8 +1,10 @@
-<script src="{{asset('assets/js/jquery-3.5.1.min.js')}}"></script>
-<script src="{{asset('assets/vendors/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
-<script src="{{asset('assets/vendors/scrollbar/simplebar.js')}}"></script>
-<script src="{{asset('assets/vendors/scrollbar/custom.js')}}"></script>
+<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+<script src="{{ asset('assets/vendors/jquery/jquery-3.7.1.min.js') }}"></script>
+<script src="{{ asset('assets/vendors/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{asset('assets/vendors/simplebar/simplebar.min.js')}}"></script>
+<script src="{{ asset('assets/vendors/simplebar/custom.js') }}"></script>
 <script src="{{asset('assets/vendors/aos/aos.js')}}"></script>
+<script src="{{ asset('assets/js/config.js') }}"></script>
 <script id="menu" src="{{asset('assets/js/sidebar-menu.js')}}"></script>
 <script src="{{asset('assets/js/script.js')}}"></script>
 <script type="text/javascript">
